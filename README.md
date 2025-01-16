@@ -1,3 +1,13 @@
+---
+license: apache-2.0
+title: ENCRYPTO MD
+sdk: docker
+emoji: 🚀
+colorFrom: blue
+colorTo: blue
+short_description: The Best W.A bo
+---
+
 <p align="center">
   <h1 align="center">❄️ SUBZERO-MD ❄️</h1>
 </p>

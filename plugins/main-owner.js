@@ -9,10 +9,10 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-Project Name : SubZero MD
-Creator      : Darrell Mucheri ( Mr Frank OFC )
-Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
-Support      : wa.me/18062212660
+Project Name : ENCRYPTO-27
+Creator      : Diego Allies ( DUDAS OFC )
+Repo         : https//github.com/mrfrank-ofc/ENCRYPTO-27
+Support      : wa.me/27679291800
 */
 
 
@@ -265,7 +265,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363304325601080@newsletter',
-                    newsletterName: 'Mr Frank OFC',
+                    newsletterName: 'DUDAS OFC',
                     serverMessageId: 143
                 }            
             }
@@ -273,7 +273,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-theone.mp3' }, // Audio URL
+            audio: { url: 'https://github.com/mrfrank-ofc/ENCRYPTO-27-DATABASE/raw/refs/heads/main/audios/subzero-theone.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });

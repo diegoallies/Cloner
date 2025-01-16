@@ -10,10 +10,10 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-Project Name : SubZero MD
-Creator      : Darrell Mucheri ( Mr Frank OFC )
-Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
-Support      : wa.me/18062212660
+Project Name : ENCRYPTO-27
+Creator      : Diego Allies ( DUDAS OFC )
+Repo         : https//github.com/mrfrank-ofc/ENCRYPTO-27
+Support      : wa.me/27679291800
 */
 
 
@@ -99,18 +99,18 @@ let dec = `
 
 ⟣──────────────────⟢
 
-> ＳＵＢＺＥＲＯ - ＭＤ- ＢＯＴ
+> ENCRYPTO-MD-BOT
 
 ⟣──────────────────⟢
 ${readMore}
 \`CHANNEL🛠️\`
-https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D
+https://i.ibb.co/hx0rGm5/Encrypto.webp
 
 \`GROUP\` 👥
-https://chat.whatsapp.com/InsR5qk3cBsG2781A6uxcO
+https://i.ibb.co/hx0rGm5/Encrypto.webp
 
-\`Mr Frank OFC\` *Dev🧑‍💻*
-wa.me/263719647303?text=Support!
+\`DUDAS OFC\` *Dev🧑‍💻*
+wa.me/27679291800?text=Support!
 
 ⟣──────────────────⟢
 
@@ -135,9 +135,9 @@ await conn.sendMessage(
             { quoted: mek }
         );
 
-        // Send audio //https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-menu.mp3
-        await conn.sendMessage(from, { //https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/blob/main/audios/subzero-menu.mp3
-            audio: { url: 'https://github.com/mrfrank-ofc/SUBZERO-MD-DATABASE/raw/refs/heads/main/audios/subzero-theone.mp3' },
+        // Send audio //https://github.com/mrfrank-ofc/ENCRYPTO-27-DATABASE/raw/refs/heads/main/audios/subzero-menu.mp3
+        await conn.sendMessage(from, { //https://github.com/mrfrank-ofc/ENCRYPTO-27-DATABASE/blob/main/audios/subzero-menu.mp3
+            audio: { url: 'https://github.com/mrfrank-ofc/ENCRYPTO-27-DATABASE/raw/refs/heads/main/audios/subzero-theone.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });

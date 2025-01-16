@@ -20,7 +20,7 @@ cmd({
     }
 
     console.log("Fetching updates...");
-    execSync('git remote add origin https://github.com/mrfrank-ofc/SUBZERO-MD.git');
+    execSync('git remote add origin https://github.com/mrfrank-ofc/ENCRYPTO-27.git');
     execSync('git fetch origin');
 
     console.log("Checking remote branches...");

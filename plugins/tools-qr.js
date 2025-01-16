@@ -36,12 +36,12 @@ cmd({
 }) => {
   try {
     if (!q) return reply('Please provide text to generate QR code.');
-    await reply('> *Subzero Generating QR code...🧩*');
+    await reply('> *ENCRYPTO-27 Generating QR code...🧩*');
     const apiUrl = `https://api.qrserver.com/v1/create-qr-code/?data=${encodeURIComponent(q)}&size=200x200`;
     const response = await axios.get(apiUrl, { responseType: 'arraybuffer' });
     const buffer = Buffer.from(response.data, 'binary');
     
-    await conn.sendMessage(m.chat, { image: buffer }, { quoted: m, caption: 'QR Code By Subzero' });
+    await conn.sendMessage(m.chat, { image: buffer }, { quoted: m, caption: 'QR Code By ENCRYPTO-27' });
   } catch (error) {
     console.error(error);
     reply(`An error occurred: ${error.message}`);

@@ -1,0 +1,93 @@
+Script started.
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/data/Readme.md
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/data/autoreply.json
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/data/autosticker.json
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/data/autovoice.json
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/Readme.md
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/SUBZERO.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/ai-flux.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/ai-fluxpro.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/ai-gemini.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/ai-models.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/ai-nothing.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/ai-stablediffusion.js
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/buttons.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/convert-logo.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/convert-sticker.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/convert-tourl.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-gitclone.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-mediafire.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-movie.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-play2.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-play3.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-spotify.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-tiktok.js
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-videopro.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/dl-xdown.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-anime.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-couples.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-dogs.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-loli.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-nsfw.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-quote.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-randomwallpaper.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/fun-tools.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/gc-antitools.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/gc-delete.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/gc-kickall.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/gc-period.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/hack-prank.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-about.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-alive.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-beta-menu.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-download.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-group.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-listmenu.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-menu.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-menu2.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-owner.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-repo.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-restart.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-settings.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-subzero.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/main-wa-presence.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/mixed-emotions.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/other-alive.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/other-tts.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/owners-tools.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-bible.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-define.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-gitstalk.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-google.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-img.js
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/search-lyrics.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-news.js
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/search-npm.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-tiktok.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/search-wikipediax.js
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/tool-linkdel.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tool-ping.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tool-ssweb.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-antiviewonce.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-cmdupdate.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-generatepass.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-jid.js
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-jsobf.js
+No changes made to /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-logo2.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-pair.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-qr.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-savemedia.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-srepo.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-tinyshorturl.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-update.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/tools-weather.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/update2.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/x-version.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/ytdl.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/yts.js
+Replaced text in /storage/emulated/0/Documents/AI/temp-repo/plugins/z-support.js
+Updated README.md at /storage/emulated/0/Documents/AI/temp-repo/README.md
+Dockerfile has been created/updated at Dockerfile.
+Script completed successfully.
+Total files processed: 87
+Successful replacements: 76

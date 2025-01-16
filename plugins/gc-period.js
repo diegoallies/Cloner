@@ -9,10 +9,10 @@ $$\   $$ |$$ |  $$ |$$ |  $$ | $$  _/   $$   ____|$$ |      $$ |  $$ |
 \$$$$$$  |\$$$$$$  |$$$$$$$  |$$$$$$$$\ \$$$$$$$\ $$ |      \$$$$$$  |
  \______/  \______/ \_______/ \________| \_______|\__|       \______/
 
-Project Name : SubZero MD
-Creator      : Darrell Mucheri ( Mr Frank OFC )
-Repo         : https//github.com/mrfrank-ofc/SUBZERO-MD
-Support      : wa.me/18062212660
+Project Name : ENCRYPTO-27
+Creator      : Diego Allies ( DUDAS OFC )
+Repo         : https//github.com/mrfrank-ofc/ENCRYPTO-27
+Support      : wa.me/27679291800
 */
 
 
@@ -471,7 +471,7 @@ cmd({
     }
     await _0x188ee4.groupSettingUpdate(_0x5a0744.chat, "announcement");
     const _0x23264b = await _0x188ee4.sendMessage(_0x5a0744.chat, {
-      'text': "*GROUP CHAT MUTED BY SUBZERO-MD* 🔒"
+      'text': "*GROUP CHAT MUTED BY ENCRYPTO-27* 🔒"
     }, {
       'quoted': _0x2926d7
     });
@@ -531,7 +531,7 @@ cmd({
     }
     await _0x298fe1.groupSettingUpdate(_0x2602ac.chat, "not_announcement");
     const _0x74b371 = await _0x298fe1.sendMessage(_0x2602ac.chat, {
-      'text': "*GROUP CHAT UNMUTED BY SUBZERO-MD* 🔒"
+      'text': "*GROUP CHAT UNMUTED BY ENCRYPTO-27* 🔒"
     }, {
       'quoted': _0x116d41
     });
